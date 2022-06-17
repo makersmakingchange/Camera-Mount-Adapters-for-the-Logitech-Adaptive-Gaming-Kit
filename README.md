@@ -15,7 +15,7 @@ The Camera Mount Adapters for Logitech Adaptive Gaming Kit are inexpensive, easy
 
 ### 1. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/Camera_Adapter_Logitech_BOM_V1.1.pdf) lists all of the parts and components required to build the Camera Mount Adapter for Logitech Adaptive Gaming Kit. Everything can either be 3D printed or bought at the local hardware store. 
+The [Bill of Materials](/Documentation/Camera_Adapter_Logitech_BOM_V1.1.csv) lists all of the parts and components required to build the Camera Mount Adapter for Logitech Adaptive Gaming Kit. Everything can either be 3D printed or bought at the local hardware store. 
 
 
 ### 2. Print the 3D Printable components
