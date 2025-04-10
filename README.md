@@ -8,15 +8,12 @@ The Camera Mount Adapters for Logitech Adaptive Gaming Kit are inexpensive, easy
 
 ## More info at
 - [Makers Making Change Project Page](<https://makersmakingchange.com/project/camera-mount-adapters-for-the-logitech-adaptive-gaming-kit/>)
-- [Makers Making Change Forum Thread](<https://makersmakingchange.com/forum/topic/camera-mount-adapter-for-logitech-adaptive-gaming-kit/>)
-
 
 ## Getting Started
 
 ### 1. Order the Off-The-Shelf Components
 
 The [Bill of Materials](/Documentation/Camera_Adapter_Logitech_BOM_V1.1.csv) lists all of the parts and components required to build the Camera Mount Adapter for Logitech Adaptive Gaming Kit. Everything can either be 3D printed or bought at the local hardware store. 
-
 
 ### 2. Print the 3D Printable components
 
@@ -44,8 +41,6 @@ Reference the [Assembly Guide](/Documentation/Camera_Adapter_Logitech_Assembly_G
  - [3D Printing Files](/Build_Files)
 
 ## Attribution
-Designers:
-
 [Original design](<https://www.thingiverse.com/thing:4128904>) created by [ATMakers](<http://atmakers.org/>) under the CC BY-SA 3.0 license.
 Documentation, modified design, design files and build files created by Neil Squire / Makers Making Change under the CC BY-SA 4.0 license
 
@@ -55,8 +50,8 @@ Documentation, modified design, design files and build files created by Neil Squ
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Camera Mount Adapters for the Logitech Adaptive Gaming Kit</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="www.makersmakingchange.com" property="cc:attributionName" rel="cc:attributionURL">Neil Squire</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 
-
-
+---
+<!-- ABOUT MMC START -->
 ## About Us
 <img src="https://www.makersmakingchange.com/wp-content/uploads/logo/mmc_logo.svg" width="500" alt="Makers Making Change Logo">
 
@@ -73,3 +68,4 @@ We are committed to creating a network of volunteer makers who support people wi
 ## Contact Us
 
 For technical questions, to get involved, or share your experience we encourage you to visit the [MMC Project Page]( https://www.makersmakingchange.com/project), [MMC Forum](https://forum.makersmakingchange.com), or contact info@makersmakingchange.com
+<!-- ABOUT MMC END -->
